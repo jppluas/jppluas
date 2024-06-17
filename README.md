@@ -5,7 +5,7 @@
 ## Experiencia
 
 - [Industrial Pesquera Santa Priscila](https://www.santa-priscila-admin.com/): Desarrollador Junior de Software
-- [Narviz | Ecommerce & Consulting](https://narviz.com/): Desarrollador Junior Web Full Stack
+- [Narviz Ecommerce & Consulting](https://narviz.com/): Desarrollador Junior Web Full Stack
 - [Escuela Superior Politécnica del Litoral](https://www.espol.edu.ec/es): Profesor Manual de Fundamentos de Electricidad y Sistemas Digitales, Asistente en Soporte en Hardware y Software en Laboratorios de Redes Avanzadas
 
 ## Educación
